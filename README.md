@@ -85,3 +85,12 @@ The application will be available at:
 5️⃣ Use the **Language Switcher** at the bottom to change the language (**English / German**).  
 
 ---
+
+## ** Viewing the Code in VS Code
+1️⃣ Open via VS Code Interface
+Make sure you remember the directory where you cloned the repository.
+Open VS Code.
+Click on File > Open Folder....
+Navigate to the folder where you cloned the project (e.g., C:\Users\YourName\rick-morty-app).
+Select the folder and click Open.
+---
