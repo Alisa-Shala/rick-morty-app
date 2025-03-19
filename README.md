@@ -55,14 +55,14 @@ cd rick-morty-app
 ### **3️⃣ Install Dependencies**
 Once inside the project directory, install the required dependencies:  
 
-sh
+```sh
 npm install --legacy-peer-deps
-
+```
 This will install all necessary Node.js packages required for the project. If you face dependency issues, run:
 
-sh
+```sh
 npm install react-scripts@5.0.1 --legacy-peer-deps
-
+```
 
 ---
 
