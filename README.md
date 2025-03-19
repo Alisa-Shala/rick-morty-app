@@ -32,7 +32,7 @@ Ensure you have the following installed before proceeding:
 - **[Node.js](https://nodejs.org/) (Latest LTS version)**  
 - **[Git](https://git-scm.com/downloads)**  
 
-You can verify the installation using the following commands:  
+You can verify the installation using the following commands(using command prompt) :  
 
 ```sh
 node -v    # Should return Node.js version
