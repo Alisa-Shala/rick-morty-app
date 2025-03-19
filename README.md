@@ -38,16 +38,11 @@ cd rick-morty-app
 2️⃣ Install Dependencies
 Make sure you have Node.js installed. Then, install the required packages:
 
-sh
-Copy
-Edit
+
 npm install
 3️⃣ Start the Development Server
 Run the following command to start the application:
 
-sh
-Copy
-Edit
 npm start
 The app will be available at:
 👉 http://localhost:3000/
