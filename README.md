@@ -87,10 +87,9 @@ The application will be available at:
 ---
 
 ## 🖥 Viewing the Code in VS Code  
-
-1️⃣ Make sure you remember the directory where you cloned the repository.  
-2️⃣ Open **VS Code**.  
+1️⃣ The first step is to make sure you remember the directory where you cloned the repository.  
+2️⃣ Open VS Code.  
 3️⃣ Click on **File > Open Folder...**.  
 4️⃣ Navigate to the folder where you cloned the project (e.g., `C:\Users\YourName\rick-morty-app`).  
-5️⃣ Select the folder and click **Open**. 
+5️⃣ Select the folder and click **Open**.  
 ---
