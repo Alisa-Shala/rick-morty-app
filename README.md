@@ -54,12 +54,12 @@ To start the application locally, run:
 npm start
 The application will be available at: 👉 http://localhost:3000/
 
-🔄 How to Use the App
+
+ How to Use the App
 1️⃣ The homepage displays a list of characters.
 2️⃣ Use the Sort By buttons to sort characters by Name or Origin.
 3️⃣ Use the Status & Species filters to dynamically filter characters.
 4️⃣ Scroll down to load more characters dynamically (Infinite Scrolling).
 5️⃣ Use the Language Switcher at the bottom to change the language (English / German).
-
 
 
