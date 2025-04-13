@@ -1,8 +1,8 @@
-# Rick & Morty Characters App - Internship Task for Pabau
+# Rick & Morty Characters App 
 
 This is a **React.js** and **GraphQL**-based application that displays a list of characters from the **Rick & Morty** series. The data is fetched from the [Rick and Morty GraphQL API](https://rickandmortyapi.com/graphql).
 
-This project was developed as part of the **Software Engineer Internship Task for Pabau**.
+
 
 ---
 
